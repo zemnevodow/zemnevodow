@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Max Zemnevodow
 - 👀 I’m interested in python and web3 marketing
-- 🌱 I’m currently learning python and community building for web3 projects
 - 📫 How to reach me zemnevodow@gmail.com
 
 <!---
